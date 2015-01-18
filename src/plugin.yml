@@ -1,0 +1,5 @@
+name: myAlert
+author: mr_splash
+version: 0.1.2
+
+main: de.mr_splash.myAlert.myAlert

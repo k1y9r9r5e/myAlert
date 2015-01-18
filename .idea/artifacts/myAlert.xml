@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="myAlert">
+    <output-path>$PROJECT_DIR$/../../Viel Zeug/PlayCade Netzwerk/bungeecord_3777/plugins</output-path>
+    <root id="archive" name="myAlert.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="module-output" name="myAlert2.0" />
+    </root>
+  </artifact>
+</component>
